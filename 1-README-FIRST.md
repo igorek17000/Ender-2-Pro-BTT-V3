@@ -4,6 +4,8 @@ The version of Marlin [Marlin-bugfix-2.1.x.zip] is already configured for the En
 
 Just unzip file, and open in VS Code, and compile firmware.
 
+Or, you can use the Pre-Compiled firmware in the main branch, just remember to change the name of the file as instructed in the line below.
+
 Change firmware file name from "firmware-update-6-12-2022.bin" to: firmware.bin  before loading it onto the Ender 2 Pro
 
 Upgrade the Ender 2 Pro To A BTT-SKR-Mini-E3-v2 + TFT35-E3-v3
