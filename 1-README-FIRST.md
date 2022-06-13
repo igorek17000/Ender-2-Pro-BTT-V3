@@ -1,6 +1,8 @@
 # Ender-2-Pro-BTT Upgrade
 
-The version of Marlin [Marlin-bugfix-2.1.x.zip] is already configured for the Ender 2 Pro-BTT upgrade. 
+The version of Marlin [Marlin-bugfix-2.1.x.zip] is already configured for the Ender 2 Pro-BTT upgrade and is included in the code zip file
+
+that can be downloaded from the main branch.
 
 Just unzip file, and open in VS Code, and compile firmware.
 
