@@ -1,4 +1,7 @@
 # Ender-2-Pro-BTT
+
+Change firmware file name to: firmware.bin  before loading it onto the Ender 2 Pro
+
 Upgrade the Ender 2 Pro To A BTT-SKR-Mini-E3-v2 + TFT35-E3-v3
 
 This upgrade requires not only the BTT SKR mini E3 v2 and the TFT35 E3 v3
