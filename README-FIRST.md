@@ -10,3 +10,5 @@ This upgrade also requires a longer LCD ribbon cable.
 You will need to 3D Print a control box for the TFT35 Touch Screen.
 
 Open the Ender-2-Pro-BTT.pdf file, and it will have all the links and descriptions needed to aquire materials needed.
+
+The .stl files for 3D printing are located in the "3D Printing Files".zip
