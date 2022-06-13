@@ -1,6 +1,6 @@
 # Ender-2-Pro-BTT
 
-Change firmware file name to: firmware.bin  before loading it onto the Ender 2 Pro
+Change firmware file name from "firmware-update-6-12-2022.bin" to: firmware.bin  before loading it onto the Ender 2 Pro
 
 Upgrade the Ender 2 Pro To A BTT-SKR-Mini-E3-v2 + TFT35-E3-v3
 
