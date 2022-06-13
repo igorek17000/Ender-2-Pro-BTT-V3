@@ -1,4 +1,4 @@
-# Ender-2-Pro-BTT
+# Ender-2-Pro-BTT Upgrade
 
 The version of Marlin [Marlin-bugfix-2.1.x.zip] is already configured for the Ender 2 Pro-BTT upgrade. 
 
