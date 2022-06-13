@@ -3,7 +3,7 @@ The version of Marlin [Marlin-bugfix-2.1.x.zip] is already configured for the En
 
 that can be downloaded from the main branch.
 
-Just unzip file, and open in VS Code, and compile firmware.
+Just unzip file, and open in VS Code, examine and make any additional changes you want, and compile firmware.
 
 Or, you can use the Pre-Compiled firmware in the main branch, just remember to change the name of the file as instructed in the line below.
 
