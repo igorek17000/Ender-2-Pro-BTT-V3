@@ -7,7 +7,7 @@ Found here: (NOT A PAID LINK) Cost:$80.99USD
 
 https://www.amazon.com/dp/B089DBS62S?ref=ppx_yo2ov_dt_b_product_details&th=1
 
-================================================================================================================
+============================================================================
 
 This upgrade in firmware also requires additional materials to complete. The materials and cost are listed below.
 
