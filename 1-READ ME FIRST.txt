@@ -7,7 +7,7 @@ Just unzip file, and open the Marlin Folder in VS Code, examine and make any add
 
 Or, you can use the Pre-Compiled firmware in the main branch, just remember to change the name of the file as instructed in the line below.
 
-Change firmware file name from "firmware-update-6-12-2022.bin" to: firmware.bin before loading it onto the Ender 2 Pro
+Change firmware file name from "firmware-update-6-12-2022.bin" to: firmware.bin before loading it onto the Ender 2 Pro. DO NOT USE UPDATED TFT35 FIRMWARE. Leave it stock for the touch screen interface.
 
 Upgrade the Ender 2 Pro To A BTT-SKR-Mini-E3-v2 + TFT35-E3-v3
 
@@ -18,7 +18,5 @@ This upgrade also requires NEW Motor Cables. 6 pin to 4 pin, Ender 3 motor cable
 This upgrade also requires a longer LCD ribbon cable.
 
 You will need to 3D Print a control box for the TFT35 Touch Screen.
-
-Open the Ender-2-Pro-BTT.pdf file, and it will have all the links and descriptions needed to aquire materials needed.
 
 The .stl files for 3D printing are located in the "BTT TFT35 E3 v3 Case STL FILES".zip
