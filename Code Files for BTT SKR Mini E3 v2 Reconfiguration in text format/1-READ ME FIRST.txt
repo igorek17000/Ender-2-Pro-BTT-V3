@@ -1,2 +1,0 @@
-Remove the .txt and hit enter. When it asks if you want to change file
-format, click YES. This will convert them to code files from text files.
