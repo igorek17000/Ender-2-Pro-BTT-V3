@@ -1,13 +1,10 @@
-# Ender-2-Pro-BTT
-Upgrade the Ender 2 Pro To A BTT-SKR-Mini-E3-v2 + TFT35-E3-v3
-
-Ender-2-Pro-BTT Upgrade
+# Ender-2-Pro Upgrade the Ender 2 Pro To A BTT-SKR-Mini-E3-v2 + TFT35-E3-v3
 
 Use the Pre-Compiled firmware in the main branch to upgrade the Ender 2 Pro To A BTT-SKR-Mini-E3-v2 + TFT35-E3-v3 Touch Screen Display / Classic Marlin Dislay.
 
-Or download a copy of Marlin-bugfix-2.1.x from the main Marlin firmware branch and copy over the Configuration.h, Configuration_adv.h, Version.h and make the change 
+Or download a copy of Marlin-bugfix-2.1.x from the main Marlin firmware branch: https://github.com/MarlinFirmware/Marlin
 
-listed below in the Platforio.ini file.
+and copy over the Configuration.h, Configuration_adv.h, Version.h and make the change listed below in the Platforio.ini file.
 
 Make this change to Platformio.ini: default_envs = STM32F103RC_btt (Do NOT change anything else)
 
