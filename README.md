@@ -7,7 +7,7 @@ TFT35-E3-v3 Touch Screen Display / Classic Marlin Dislay. You will need to purch
 Or download a copy of Marlin-bugfix-2.1.x from the main Marlin firmware branch: https://github.com/MarlinFirmware/Marlin
 
 and copy over the Configuration.h, Configuration_adv.h, Version.h from here: 
-https://github.com/The-300lb-Gorilla/Ender-2-Pro-BTT/tree/main/Code%20Files%20for%20BTT%20SKR%20Mini%20E3%20v2%20Reconfiguration
+https://github.com/The-300lb-Gorilla/Ender-2-Pro-BTT
 
 and make the change listed below in the Platforio.ini file.
 
