@@ -12,9 +12,11 @@ and make the change listed below in the Platforio.ini file.
 
 Make this change to Line 16 in the Platformio.ini: default_envs = STM32F103RC_btt (Do NOT change anything else)
 
-The click the check mark at the bottom to compile. If you have any issues. Let me know here. I have been testing this version of the firmware for over a month now with
+The click the check mark at the bottom to compile. If you have any issues. Let me know here. 
 
-no issues. Remember, you will need to purchase the three items listed below to do this upgrade. You cannot use the stock Main Board and Stock Motor Cables with this
+I have been testing this version of the firmware for over a month now with no issues so far.
+
+Remember, you will need to purchase the three items listed below to do this upgrade. You cannot use the stock Main Board and Stock Motor Cables with this
 
 firmware. I have provided links to each item required. (I DO NOT GET PAID FOR ANY LINK I PROVIDE)
 
