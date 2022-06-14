@@ -3,13 +3,11 @@ Upgrade the Ender 2 Pro To A BTT-SKR-Mini-E3-v2 + TFT35-E3-v3
 
 Ender-2-Pro-BTT Upgrade
 
-Use the Pre-Compiled firmware in the main branch, just remember to change the name of the file as instructed in the line below.
-
-Change firmware file name from "firmware-update-6-12-2022.bin" to: firmware.bin before loading it onto the Ender 2 Pro
+Use the Pre-Compiled firmware in the main branch.
 
 Upgrade the Ender 2 Pro To A BTT-SKR-Mini-E3-v2 + TFT35-E3-v3 Touch Screen Display / Classic Marlin Dislay
 
-Make this change to line 16 in Platformio.ini: default_envs = STM32F103RC_btt
+Make this change to Platformio.ini: default_envs = STM32F103RC_btt (Do NOT change anything else)
 
 This upgrade requires a BTT SKR Mini E3 v2 Main Board and TFT35 E3 v3 bundle. Available on Amazon.com
 
