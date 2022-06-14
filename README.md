@@ -16,9 +16,11 @@ The click the check mark at the bottom to compile. If you have any issues. Let m
 
 I have been testing this version of the firmware for over a month now with no issues so far.
 
-Remember, you will need to purchase the three items listed below to do this upgrade. You cannot use the stock Main Board and Stock Motor Cables with this
+Remember, you will need to purchase the three items listed below to do this upgrade. 
 
-firmware. I have provided links to each item required. (I DO NOT GET PAID FOR ANY LINK I PROVIDE)
+You cannot use the stock Main Board and Stock Motor Cables with this firmware.
+
+I have provided links to each item required. (I DO NOT GET PAID FOR ANY LINK I PROVIDE)
 
 This upgrade requires a BTT SKR Mini E3 v2 Main Board and TFT35 E3 v3 bundle. Available on Amazon.com
 
