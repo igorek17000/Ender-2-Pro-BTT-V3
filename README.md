@@ -1,6 +1,6 @@
 # PLEASE READ THE ENTIRE README.MD BEFORE PROCEEDING TO ANY DOWNLOADS
 # Upgrade the Ender 2 Pro To A BTT-SKR-Mini-E3-v2 + TFT35-E3-v3
-# Download Marlin-bugfix-2.1.x(Preconfigured).zip Separately From The Marlin Source Code File Folder, This version of the Marlin source code has already been configured for the BTT SKR Mini E3 + TFT35 to use on an Ender 2 Pro
+# Download Marlin-bugfix-2.1.x(Preconfigured).zip Separately From The Marlin Source Code File Folder above. This version of the Marlin source code has already been configured for the BTT SKR Mini E3 v2 + TFT35 E3 v3 to use on an Ender 2 Pro
 
 First, you will need to purchase items listed at the bottom of this page in order to do this upgrade.
 
