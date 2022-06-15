@@ -10,7 +10,7 @@ Step 4: Once the file has downloaded, move it to the directory you want to keep 
 and extract the file.
 
 Step 5: Using VS-Code, make any additional changes if you so desire, then compile by clicking the check mark at the bottom left.
-# Upgrading the TFT35 Firmware
+# Upgrading the TFT35 Touch Screen Firmware
 
 Step 1: Click on the TFT35 Touch Screen Update folder.
 
