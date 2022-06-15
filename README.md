@@ -35,6 +35,8 @@ This upgrade also requires a longer 10 pin to 10 pin LCD ribbon cable. Available
 
 https://www.amazon.com/dp/B07SR3S2W3?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
+# STL Model Files & 3D Printing GCODE Files for the STL MOdels
+
 You will need to 3D Print a control box for the TFT35 Touch Screen. There is a folder that contains these files on the main page.
 
 https://github.com/The-300lb-Gorilla/Ender-2-Pro-BTT
