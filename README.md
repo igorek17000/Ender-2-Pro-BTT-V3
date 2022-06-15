@@ -1,5 +1,5 @@
 # Upgrade the Ender 2 Pro To A BTT-SKR-Mini-E3-v2 + TFT35-E3-v3
-# Download Marlin-bugfix-2.1.x.zip Separately Or It Will NOT Compile Correctly
+# Download Marlin-bugfix-2.1.x.zip Separately From This Directory, Or It Will NOT Compile Correctly.
 Use the Pre-Compiled firmware in the main branch to upgrade the Ender 2 Pro To A BTT-SKR-Mini-E3-v2 and 
 
 TFT35-E3-v3 Touch Screen Display / Classic Marlin Dislay. You will need to purchase items listed below in order to do this upgrade.
