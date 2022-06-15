@@ -6,6 +6,11 @@ Step 2: Click on Marlin-bugfix-2.1.x.zip file
 
 Step 3: Click on Download or View Raw and the Zip file will download.
 
+Step 4: Once the file has downloaded, move it to the directory you want to keep it in
+and extract the file.
+
+Step 5: Using VS-Code, make any additional changes if you so desire, then compile by clicking the check mark at the bottom left. 
+
 # Additional Options and Information
 
 Use the Pre-Compiled firmware in the main branch to upgrade the Ender 2 Pro To A BTT-SKR-Mini-E3-v2 and 
