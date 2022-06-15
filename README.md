@@ -1,6 +1,6 @@
 # PLEASE READ THE ENTIRE README.MD BEFORE PROCEEDING TO ANY DOWNLOADS
 # Upgrade the Ender 2 Pro To A BTT-SKR-Mini-E3-v2 + TFT35-E3-v3
-# Download Marlin-bugfix-2.1.x(Preconfigured).zip Separately From The Marlin Source Code File Folder above. This version of the Marlin source code has already been configured for the BTT SKR Mini E3 v2 + TFT35 E3 v3 to use on an Ender 2 Pro
+# Download Marlin-bugfix-2.1.x(Preconfigured).zip Separately From The Marlin Source Code File Folder above. This version of the Marlin source code has already been configured for the BTT SKR Mini E3 v2 + TFT35 E3 v3 to use on an Ender 2 Pro.
 
 First, you will need to purchase items listed at the bottom of this page in order to do this upgrade.
 
@@ -43,7 +43,7 @@ You cannot use the stock Main Board and Stock Motor Cables with this firmware.
 Then download a copy of Marlin-bugfix-2.1.x from the main Marlin firmware branch: https://github.com/MarlinFirmware/Marlin
 
 and copy over the Configuration.h, Configuration_adv.h, Version.h from here: 
-https://github.com/The-300lb-Gorilla/Ender-2-Pro-BTT
+https://github.com/The-300lb-Gorilla/Ender-2-Pro-BTT, and configure any additional features you want or do not want in Configuration.h, and Configuration_adv.h.
 
 # Additional Code Change in Platformio.ini
 
@@ -75,3 +75,9 @@ https://www.amazon.com/dp/B07SR3S2W3?psc=1&ref=ppx_yo2ov_dt_b_product_details
 You will need to 3D Print a control box for the TFT35 Touch Screen. There is a folder that contains these files on the main page.
 
 https://github.com/The-300lb-Gorilla/Ender-2-Pro-BTT
+
+# Current Functions
+Standard functions such as Thermal Runaway Protection, and other stock Marlin features are on.
+The precompiled firmware listed above is set up for Manual Mesh Bed Leveling, and Manual Bed Tramming, with baby steps turned on.
+ABL Features are turned off in this one precompiled firmware edition, as are filament runout sensor, and NeoPixel functionality.
+You can built your own custom firmware with all of the files provided above. VS-Code Required to do this.
