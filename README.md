@@ -1,5 +1,5 @@
 # Upgrade the Ender 2 Pro To A BTT-SKR-Mini-E3-v2 + TFT35-E3-v3
-# Download Marlin-bugfix-2.1.x.zip Separately From This Directory, Or It Will NOT Compile Correctly.
+# Download Marlin-bugfix-2.1.x.zip Separately From This Directory, Or you may have compile issues.
 Step 1: Click on Marlin Source Code Zip Folder
 
 Step 2: Click on Marlin-bugfix-2.1.x.zip file
