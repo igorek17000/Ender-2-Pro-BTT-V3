@@ -27,10 +27,9 @@ Step 5: Open the TFT35 E3v3 Firmware Update Folder and copy and paste all of the
 Step 6: Insert SD Card into the full Size SD Card Slot on the TFT35 Touch Screen unit, and power on the Ender 2 Pro. The TFT35 firmware will then update.
 
 # Additional Options and Information
+Option #2
 
-Use the Pre-Compiled firmware in the main branch to upgrade the Ender 2 Pro To A BTT-SKR-Mini-E3-v2 and 
-
-TFT35-E3-v3 Touch Screen Display / Classic Marlin Dislay. You will need to purchase items listed at the bottom in order to do this upgrade.
+You will need to purchase items listed at the bottom in order to do this upgrade first.
 
 Or download a copy of Marlin-bugfix-2.1.x from the main Marlin firmware branch: https://github.com/MarlinFirmware/Marlin
 
