@@ -31,7 +31,7 @@ Option #2
 
 You will need to purchase items listed at the bottom in order to do this upgrade first.
 
-Or download a copy of Marlin-bugfix-2.1.x from the main Marlin firmware branch: https://github.com/MarlinFirmware/Marlin
+Then download a copy of Marlin-bugfix-2.1.x from the main Marlin firmware branch: https://github.com/MarlinFirmware/Marlin
 
 and copy over the Configuration.h, Configuration_adv.h, Version.h from here: 
 https://github.com/The-300lb-Gorilla/Ender-2-Pro-BTT
