@@ -17,7 +17,7 @@ The click the check mark at the bottom to compile. If you have any issues. Let m
 
 I have been testing this version of the firmware for over a month now with no issues so far.
 
-You will need to purchase the three items listed below to do this upgrade. 
+# You will need to purchase the three items listed below to do this upgrade. 
 
 You cannot use the stock Main Board and Stock Motor Cables with this firmware.
 
