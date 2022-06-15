@@ -37,7 +37,7 @@ Or download a copy of Marlin-bugfix-2.1.x from the main Marlin firmware branch: 
 and copy over the Configuration.h, Configuration_adv.h, Version.h from here: 
 https://github.com/The-300lb-Gorilla/Ender-2-Pro-BTT
 
-and make the change listed below in the Platforio.ini file.
+# Additional Code Change in Platformio.ini
 
 Make this change to Line 16 in the Platformio.ini: default_envs = STM32F103RC_btt (Do NOT change anything else)
 
