@@ -54,7 +54,7 @@ I have been testing this version of the firmware for over a month now with no is
 # Items listed below are needed to do this upgrade. 
 (I DO NOT GET PAID FOR ANY LINK I PROVIDE)
 
-I have provided links to each item required. 
+Here are the links to each item required. 
 
 This upgrade requires a BTT SKR Mini E3 v2 Main Board and TFT35 E3 v3 bundle. Available on Amazon.com
 
