@@ -4,6 +4,8 @@
 
 First, you will need to purchase items listed at the bottom of this page in order to do this upgrade.
 
+You cannot use the stock Main Board and Stock Motor Cables with this firmware.
+
 Step 1: Click on Marlin Source Code Zip Folder
 
 Step 2: Click on Marlin-bugfix-2.1.x.zip file
@@ -34,6 +36,8 @@ Option #2
 
 First, you will need to purchase items listed at the bottom of this page in order to do this upgrade.
 
+You cannot use the stock Main Board and Stock Motor Cables with this firmware.
+
 Then download a copy of Marlin-bugfix-2.1.x from the main Marlin firmware branch: https://github.com/MarlinFirmware/Marlin
 
 and copy over the Configuration.h, Configuration_adv.h, Version.h from here: 
@@ -47,9 +51,7 @@ The click the check mark at the bottom to compile. If you have any issues. Let m
 
 I have been testing this version of the firmware for over a month now with no issues so far. 94 prints, no failures.
 
-# You will need to purchase the three items listed below to do this upgrade. (I DO NOT GET PAID FOR ANY LINK I PROVIDE)
-
-You cannot use the stock Main Board and Stock Motor Cables with this firmware.
+# Items listed below are needed to do this upgrade. (I DO NOT GET PAID FOR ANY LINK I PROVIDE)
 
 I have provided links to each item required. 
 
