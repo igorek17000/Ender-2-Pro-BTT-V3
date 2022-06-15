@@ -1,5 +1,5 @@
 # Upgrade the Ender 2 Pro To A BTT-SKR-Mini-E3-v2 + TFT35-E3-v3
-# Download Marlin-bugfix-2.1.x(Preconfigured).zip Separately From This Directory, Or you may have compile issues. This version of the Marlin source code has already been set up for the BTT SKR Mini E3 + TFT35 to use on an Ender 2 Pro (Do not forget to purchase 6 pin to 4 pin Ender 3 Motor Cables)
+# Download Marlin-bugfix-2.1.x(Preconfigured).zip Separately From This Directory, Or you may have compile issues. This version of the Marlin source code has already been set up for the BTT SKR Mini E3 + TFT35 to use on an Ender 2 Pro
 Step 1: Click on Marlin Source Code Zip Folder
 
 Step 2: Click on Marlin-bugfix-2.1.x.zip file
@@ -9,7 +9,21 @@ Step 3: Click on Download or View Raw and the Zip file will download.
 Step 4: Once the file has downloaded, move it to the directory you want to keep it in
 and extract the file.
 
-Step 5: Using VS-Code, make any additional changes if you so desire, then compile by clicking the check mark at the bottom left. 
+Step 5: Using VS-Code, make any additional changes if you so desire, then compile by clicking the check mark at the bottom left.
+# Upgrading the TFT35 Firmware
+
+Step 1: Click on the TFT35 Touch Screen Update folder.
+
+Step 2: Click on the TFT35 E3v3 Firmware Update.zip file.
+
+Step 3: Click on Download or View Raw and the Zip file will download.
+
+Step 4: Once the file has downloaded, move it to the directory you want to keep it in
+and extract the file.
+
+Step 5: Open the TFT35 E3v3 Firmware Update Folder and copy and paste all of the files in that folder to a BLANK SD CARD.
+
+Step 6: Insert SD Card into the full Size SD Card Slot on the TFT35 Touch Screen unit, and power on the Ender 2 Pro. The TFT35 firmware will then update.
 
 # Additional Options and Information
 
