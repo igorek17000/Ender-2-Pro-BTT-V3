@@ -51,7 +51,8 @@ The click the check mark at the bottom to compile. If you have any issues. Let m
 
 I have been testing this version of the firmware for over a month now with no issues so far. 94 prints, no failures.
 
-# Items listed below are needed to do this upgrade. (I DO NOT GET PAID FOR ANY LINK I PROVIDE)
+# Items listed below are needed to do this upgrade. 
+(I DO NOT GET PAID FOR ANY LINK I PROVIDE)
 
 I have provided links to each item required. 
 
