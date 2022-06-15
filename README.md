@@ -16,7 +16,7 @@ Step 4: Once the file has downloaded, move it to the directory you want to keep 
 and extract the file.
 
 Step 5: Using VS-Code, make any additional changes if you so desire, then compile by clicking the check mark at the bottom left.
-# Upgrading the TFT35 Touch Screen Firmware
+# Upgrading the TFT35 Touch Screen Firmware. Download Marlin-bugfix-2.1.x(Preconfigured).zip Separately From The Marlin Source Code File Folder above.
 
 Step 1: Click on the TFT35 Touch Screen Update folder.
 
