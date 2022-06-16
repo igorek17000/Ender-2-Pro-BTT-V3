@@ -76,6 +76,8 @@ You will need to 3D Print a control box for the TFT35 Touch Screen. There is a f
 
 https://github.com/The-300lb-Gorilla/Ender-2-Pro-BTT/tree/main/STL%20Model%20Files%20and%20GCODE%20Print%20Zip%20File
 
+Click on the zip file, and then click download.
+
 # Current Functions
 Standard functions such as Thermal Runaway Protection, and other stock Marlin features are on.
 The precompiled firmware listed above is set up for Manual Mesh Bed Leveling, and Manual Bed Tramming, with baby steps turned on.
