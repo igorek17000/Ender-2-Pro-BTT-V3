@@ -1,5 +1,6 @@
 # PLEASE READ THE ENTIRE README.MD BEFORE PROCEEDING TO ANY DOWNLOADS
-# Updated FIRMWARE.BIN uploaded here at 12:06 EST USA on 6-16-2022
+# Updated FIRMWARE.BIN uploaded here at 
+# 12:06 EST USA on 6-16-2022
 # If you only purchased the BTT SKR Mini E3 Board, No touch screen, this will work with the stock LCD as well, firmware was updated.
 # Upgrade the Ender 2 Pro To A BTT-SKR-Mini-E3-v2 + TFT35-E3-v3
 # Download Marlin-bugfix-2.1.x(Preconfigured).zip Separately From The Marlin Source Code File Folder above. This version of the Marlin source code has already been configured for the BTT SKR Mini E3 v2 + TFT35 E3 v3 to use on an Ender 2 Pro.
