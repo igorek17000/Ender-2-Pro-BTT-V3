@@ -15,9 +15,13 @@ Step 3: Click on Download or View Raw and the Zip file will download.
 Step 4: Once the file has downloaded, move it to the directory you want to keep it in
 and extract the file.
 
-Step 5: Load the firmware.bin file onto a Micro SD Card and insert it into the Micro Sd card slot on the Ender 2 Pro, and power the machine on. The screen will be blank for a few seconds. To switch between the Classic Marlin Rotary Knob turn and click and the Touch screen modes, hold the knob down for a few seconds and two icons will appear. The one on the left is classic Marlin mode, and the one on the right is touch screen mode. NOTE: Do not try to use the full sized sd card slot on the TFT35 Touch Screen Unit to update the main board firmware.
+Step 5: Using VS-Code, open the extracted folder, make any additional changes if you so desire or no changes, then compile the firmware by clicking the check mark at the bottom left.
 
-Step 5: Using VS-Code, make any additional changes if you so desire, then compile by clicking the check mark at the bottom left.
+# Preconfigured Firmware Option
+
+Load the firmware.bin file onto a Micro SD Card and insert it into the Micro Sd card slot on the Ender 2 Pro, and power the machine on. The screen will be blank for a few seconds. To switch between the Classic Marlin Rotary Knob turn and click and the Touch screen modes, hold the knob down for a few seconds and two icons will appear. The one on the left is classic Marlin mode, and the one on the right is touch screen mode. NOTE: Do not try to use the full sized sd card slot on the TFT35 Touch Screen Unit to update the main board firmware.
+
+
 # Upgrading the TFT35 Touch Screen Firmware. Download TFT35 Touch Screen Update.zip Separately From TFT35 Touch Screen Update File Folder above.
 
 Step 1: Click on the TFT35 Touch Screen Update folder.
