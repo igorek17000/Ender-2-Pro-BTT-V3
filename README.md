@@ -74,7 +74,7 @@ https://www.amazon.com/dp/B07SR3S2W3?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
 You will need to 3D Print a control box for the TFT35 Touch Screen. There is a folder that contains these files on the main page.
 
-https://github.com/The-300lb-Gorilla/Ender-2-Pro-BTT
+https://github.com/The-300lb-Gorilla/Ender-2-Pro-BTT/tree/main/STL%20Model%20Files%20and%20GCODE%20Print%20Zip%20File
 
 # Current Functions
 Standard functions such as Thermal Runaway Protection, and other stock Marlin features are on.
