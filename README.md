@@ -1,4 +1,4 @@
-# This Firmware is for the BTT-SKT-Mini-E3-Version-2.0 Main Board Only.
+# This Firmware is for the BTT-SKR-Mini-E3-Version-2.0 Main Board Only.
 # Older Main Boards, v1.2, v1.4, and the newer v3 do not work with this firmware YET.
 # PLEASE READ THE ENTIRE README.MD BEFORE PROCEEDING TO ANY DOWNLOADS
 # Updated FIRMWARE.BIN for BTT SKR Mini E3 v2 Board ONLY, on an Ender 2 Pro, uploaded here at 12:06 EST USA on June 16, 2022. To Install firmware, copy the downloaded firware.bin file to a micro SD card, put it in the Ender 2 Pro SD card slot, and turn on the printer. You will get a blank screen at first, that is the firmware updating, once completed, the normal boot up screen will show, and the the main information screen will come up for the stock LCD screen. The touch screen interface on a TFT35 will come up if using a touch screen.
