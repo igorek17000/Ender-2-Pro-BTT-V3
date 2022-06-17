@@ -1,6 +1,10 @@
-# THIS FIRMWARE IS FOR THE BTT-SKR-MINI-E3-V3 ONLY!. 
-# Only the BETA Version is available at this time.
-# The Source Code is Now Available.
+# THIS FIRMWARE IS FOR THE BTT-SKR-MINI-E3-V3 MAIN CONTROL BOARD ONLY!.
+# THIS WILL NOT WORK ON ANY OTHER BIG TREE TECH MAIN CONTROL BOARDS!
+# THE FIRMWARE VERSION IS MARLIN-BUGFIX-2.1.X CONFIGURED FOR THE BOARD LISTED ABOVE!
+# PLEASE REPORT ANY ISSUES OR BUGS THROUGH THE ISSUE OPTION ON THIS GITHUB BRANCH!
+
+# The Source Code is Now Available Here:
+[github.com/the-300lb-gorilla/Ender-2-Pro-BTT-V3](https://github.com/The-300lb-Gorilla/Ender-2-Pro-BTT-V3)
 
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
