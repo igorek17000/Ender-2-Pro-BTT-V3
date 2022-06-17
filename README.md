@@ -1,5 +1,6 @@
-# THIS FIRMWARE FOR THE BTT-SKR-MINI-E3-V3 IS CURRENTLY BEING DEVELOPED. Only the BETA Version is available at this time.
-
+# THIS FIRMWARE IS FOR THE BTT-SKR-MINI-E3-V3 ONLY!. 
+# Only the BETA Version is available at this time.
+# The Source Code is Now Available.
 
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
